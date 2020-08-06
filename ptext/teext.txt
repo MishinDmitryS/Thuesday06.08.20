@@ -20,6 +20,6 @@ public class A5 {
         }while(Numb > 1);
 
         System.out.println(Chislo);
-System.out.println(Chislo);
+System.out.println(Chislo); //  комментарий 
     }
 }
